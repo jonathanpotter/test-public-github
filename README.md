@@ -1,2 +1,2 @@
-# test-public-github
-Use this to test connections from employer's internal network to external GitHub.
+# Example Repository
+This repository was used for testing the connection between an employer's internal network to external GitHub.
